@@ -31,7 +31,7 @@ Installation steps :
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-Features : Features:
+Features :
 ● Random card arrangement
 ● Card flipping functionality
 ● Match checking
