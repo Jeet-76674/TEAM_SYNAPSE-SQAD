@@ -46,14 +46,20 @@ Deployment Installation :
 
 1)open terminal add command
       A) npm run build
+      
 2)Upload Whole folder in github in new repository
+
 3)Open vercel and sign in with git
+
 4)allow your vercel to acess git repository .
+
 5)publish
 
 =================================================================================================================================================
 Developed By -
 
 Valmik Bhat
+
 Jeet Tetar
+
 Parth Gohil
