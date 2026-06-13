@@ -12,7 +12,7 @@ The project is developed using:
 ● React JS
 ● React Hooks (useState, useEffect)
 ● Local Storage (optional)
-● Netlify or Vercel for deployment
+● Vercel for deployment
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Installation steps : 
