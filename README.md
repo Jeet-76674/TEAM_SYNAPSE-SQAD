@@ -17,13 +17,16 @@ The project is developed using:
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Installation steps : 
 
-1) Download Zip file\n
+1) Download Zip file
 
-2)Extract the zip file\n
+2)Extract the zip file
+
 3)open in ide 
+
 4)open terminal add command
       A) npm install
       B) npm run dev
+      
 5)Open local host link in browser and enjoy the games.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
