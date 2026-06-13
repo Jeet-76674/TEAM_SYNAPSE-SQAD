@@ -31,7 +31,13 @@ Installation steps :
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-Features : 
+Features : Features:
+● Random card arrangement
+● Card flipping functionality
+● Match checking
+● Move counter
+● Win message
+● Restart Game option
 
 IT Contains =>  3 games 
 
