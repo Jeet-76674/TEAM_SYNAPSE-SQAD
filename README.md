@@ -17,8 +17,9 @@ The project is developed using:
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Installation steps : 
 
-1) Download Zip file 
-2)Extract the zip file
+1) Download Zip file\n
+
+2)Extract the zip file\n
 3)open in ide 
 4)open terminal add command
       A) npm install
